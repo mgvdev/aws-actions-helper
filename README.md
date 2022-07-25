@@ -11,10 +11,6 @@ Aws action helper is an extension to help AWS action insertion in code or terraf
 ![Multiple insertion](./pictures/demo.gif)
 
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
 ## Known Issues
 
 

@@ -4,6 +4,8 @@
 	"description": "Extension to help devs with aws actions",
   "author": {"email": "contact@mgvdev.io", "name": "Maxence Guyonvarho"},
 	"version": "1.0.0",
+  "publisher": "mgvdev",
+  "repository": {"url": "https://github.com/mgvdev/aws-actions-helper"},
 	"engines": {
 		"vscode": "^1.69.0"
 	},
