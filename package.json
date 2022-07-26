@@ -2,8 +2,9 @@
   "name": "aws-actions-helper",
 	"displayName": "aws-actions-helper",
 	"description": "Extension to help devs with aws actions",
+  "icon": "images/aws_actions_helper_icon.png",
   "author": {"email": "contact@mgvdev.io", "name": "Maxence Guyonvarho"},
-	"version": "1.0.0",
+	"version": "1.0.1",
   "publisher": "mgvdev",
   "repository": {"url": "https://github.com/mgvdev/aws-actions-helper"},
 	"engines": {
